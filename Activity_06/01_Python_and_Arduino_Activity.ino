@@ -6,7 +6,7 @@ void setup() {
 }
 
 void loop() {
-  if (Serial.available() > 0); {
+  if (Serial.available() > 0) {
     char command = Serial.read();
 
     if (command == '1'){
