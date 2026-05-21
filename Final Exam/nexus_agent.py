@@ -201,7 +201,7 @@ def compute_productivity_verdict(active_window: str, scheduled_task: str) -> str
     """
     try:
         response = client.chat.completions.create(
-            model="meta-llama-3-8b-instruct",
+            model="meta-llama-3.1-8b-instruct",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.0
         )
@@ -457,7 +457,7 @@ def compute_summary_verdict(summary_text: str) -> str:
     """
     try:
         response = client.chat.completions.create(
-            model="meta-llama-3-8b-instruct",
+            model="meta-llama-3.1-8b-instruct",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3
         )
