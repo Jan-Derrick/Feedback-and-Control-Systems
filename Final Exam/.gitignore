@@ -1,0 +1,3 @@
+# Ignore Google Cloud credential files
+Final Exam/credentials.json
+Final Exam/token.json
