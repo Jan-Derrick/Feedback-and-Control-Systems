@@ -1,4 +1,5 @@
 # 🔮 NEXUS PRODUCTIVITY HUB — AI Productivity Agent
+Removed credentials.json and tokens.json for security
 
 Nexus Hub is a local AI-powered productivity monitoring system that tracks your active PC windows, evaluates focus against your Google Calendar schedule, and communicates with you in real time via Facebook Messenger.
 
