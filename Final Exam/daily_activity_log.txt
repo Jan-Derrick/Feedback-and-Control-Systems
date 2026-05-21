@@ -141,3 +141,8 @@
 [2026-05-21 15:42:49] Active Window: OBS 32.1.2 - Profile: Untitled - Scenes: Untitled
 [2026-05-21 15:43:49] Active Window: Videos - File Explorer
 [2026-05-21 15:44:49] Active Window: Videos - File Explorer
+[2026-05-21 15:50:21] Active Window: Messenger | Facebook - Google Chrome
+[2026-05-21 15:51:21] Active Window: Messenger | Facebook - Google Chrome
+[2026-05-21 15:52:21] Active Window: Program Manager
+[2026-05-21 15:53:21] Active Window: Messenger | Facebook - Google Chrome
+[2026-05-21 15:54:21] Active Window: Messenger | Facebook - Google Chrome
