@@ -18,7 +18,7 @@ import dateutil.parser as dparser
 app = Flask(__name__)
 
 # --- CONFIGURATION CREDENTIALS ---
-FB_PAGE_ACCESS_TOKEN = "EAAOdQbUg6LQBRvuGHazARstZB2OrE8YSX2H0c05p5pv4M67zdZBtDhzc7Q3WdZBf0trz3wVfVeJZCqbZBGY4rcT8rYjAiZAciyGDAQ42m5XiTAgPMuEVv7HFOfoHfpAtIDZAxafemeYSpa38TNl0sGA2irZAHjqHJIFizsVUhsDNbLxWMqqTTEBGZAEEfIMSaEFduQq7SYgZDZD"
+FB_PAGE_ACCESS_TOKEN = "" #Insert your Facebook Page Access Token here for Messenger API interactions
 FB_RECIPIENT_USER_ID = "26869291139407323"
 VERIFY_TOKEN = "NEXUS_SECRET_WEBHOOK_TOKEN"
 SCOPES = ['https://www.googleapis.com/auth/calendar']
